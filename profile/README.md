@@ -18,11 +18,11 @@ This organisation is the home of the open-source frameworks, schemas, and exampl
 
 | Repository | What it is |
 | --- | --- |
-| 🧭 [**samples**](https://github.com/data-engine-thinking/samples) | A curated, living library of sample code, design patterns, and solution patterns supporting the approach. Browse it at [docs.dataenginethinking.com](https://docs.dataenginethinking.com/). |
-| 📐 [**data-solution-automation-metadata-schema**](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema) | A generic interface exchange format for data solution automation and code generation: the JSON Schema definition, a class library, and worked examples. See the [schema documentation](https://data-engine-thinking.github.io/data-solution-automation-metadata-schema/). |
-| 🚦 [**DIRECT**](https://github.com/data-engine-thinking/DIRECT) | The Data Integration Run-time Execution Control Tool — a data logistics control framework to monitor, log, audit, and control data integration processes. |
-| ✅ [**testing-framework**](https://github.com/data-engine-thinking/testing-framework) | An open-source testing framework that automates the validation of a data solution with reusable data quality tests. |
-| 📖 [**book-notes**](https://github.com/data-engine-thinking/book-notes) | The central hub for reporting, tracking, and resolving typos and content issues for the book. |
+| [**samples**](https://github.com/data-engine-thinking/samples) | A curated, living library of sample code, design patterns, and solution patterns supporting the approach. Browse it at [docs.dataenginethinking.com](https://docs.dataenginethinking.com/). |
+| [**data-solution-automation-metadata-schema**](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema) | A generic interface exchange format for data solution automation and code generation: the JSON Schema definition, a class library, and worked examples. See the [schema documentation](https://data-engine-thinking.github.io/data-solution-automation-metadata-schema/). |
+| [**DIRECT**](https://github.com/data-engine-thinking/DIRECT) | The Data Integration Run-time Execution Control Tool — a data logistics control framework to monitor, log, audit, and control data integration processes. |
+| [**testing-framework**](https://github.com/data-engine-thinking/testing-framework) | An open-source testing framework that automates the validation of a data solution with reusable data quality tests. |
+| [**book-notes**](https://github.com/data-engine-thinking/book-notes) | The central hub for reporting, tracking, and resolving typos and content issues for the book. |
 
 > [!TIP]
 > **The Data Engine Thinking book is out!** Get it now at the [Data Engine Thinking website](https://www.dataenginethinking.com/en/).
