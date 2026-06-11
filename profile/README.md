@@ -4,7 +4,7 @@
 
 *Designing and implementing data solutions that are truly designed for change.*
 
-[![Website](https://img.shields.io/badge/Website-dataenginethinking.com-0e7c6b)](https://www.dataenginethinking.com/)&nbsp;&nbsp;[![The Book](https://img.shields.io/badge/The%20Book-get%20your%20copy-d97706)](https://www.dataenginethinking.com/en/)&nbsp;&nbsp;[![Samples & Patterns](https://img.shields.io/badge/Samples%20%26%20Patterns-docs.dataenginethinking.com-1f6feb)](https://docs.dataenginethinking.com/)
+[![Website](https://img.shields.io/badge/Website%3A-dataenginethinking.com-0e7c6b)](https://www.dataenginethinking.com/)&nbsp;&nbsp;[![The Book](https://img.shields.io/badge/The%20Book%3A-get%20your%20copy-d97706)](https://www.dataenginethinking.com/en/)&nbsp;&nbsp;[![Samples & Patterns](https://img.shields.io/badge/Samples%20%26%20Patterns%3A-docs.dataenginethinking.com-1f6feb)](https://docs.dataenginethinking.com/)
 
 </div>
 
